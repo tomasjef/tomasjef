@@ -1,6 +1,6 @@
 ### Hi, I'm Tomas 🧑‍💻
 
-**A Full-Stack Developer in the making ✧ and a Designer by instinct ✦**
+**A Full-Stack Developer in the making ✧ Designer by instinct ✦**
 
 Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Development Bootcamp.
 
