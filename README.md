@@ -7,8 +7,8 @@ Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Devel
 ⚙️ Teck Stack: `Ruby`, `Rails`, `JavaScript`, `HTML`, `CSS`, `SQL`, `PostgreSQL`, `Git`, `GitHub`<br>
 🤖 AI & integrations: `LLM APIs`, `RAG`, `Cloudinary`, `Heroku`<br>
 🎨 Design Tools: `Figma`, `Photoshop`, `Illustrator`, `InDesign`<br>
-🏛️ Background: 15+ years in the arts and culture sector across Branding | Campaigns | Exhibitions | Editorial<br>
-🛠️ Building design-led, AI-powered web applications<br>
+🏛️ Background: 15+ years in the arts and culture sector across **Branding, Campaigns, Exhibitions, Editorial Design**<br>
+🛠️ Philosophy: Building design-led, AI-powered web applications<br>
 
 🎓 MA Visual Communication - Royal College of Art<br>
 🎓 BA Digital Media Production - University of the Arts London<br>
