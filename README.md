@@ -10,7 +10,5 @@ Recently graduated from **[Le Wagon](https://www.lewagon.com/)**'s AI Software D
 🏛️ Background in the arts and culture sector across brand, campaign, and editorial design
 🛠️ Building design-led, AI-powered web applications
 
-.
-
 🎓 MA Visual Communication — Royal College of Art  
 🎓 BA Digital Media Production — University of the Arts London
