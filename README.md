@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tomas 🧑‍💻
 
-<!--
-**tomasjef/tomasjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full-Stack Developer in the making ✧ and a Designer by instinct ✦
+Recently graduated from **[Le Wagon](https://www.lewagon.com/)**'s AI Software Development Bootcamp, with 15+ years of graphic design experience — bringing design thinking and functional aesthetics to building considered AI-powered web applications.
 
-Here are some ideas to get you started:
+- ⚙️ I work with: `Ruby`, `Rails`, `JavaScript`, `HTML`, `CSS`, `SQL`
+- 🤖 AI & integrations: `LLM APIs`, `RAG`, `Cloudinary`, `Heroku`,
+- 🎨 I also work with: `.ai`, `.psd`, `.svg`, `.indd`, `.fig`
+- 🏛️ Background in culture sector across brand, campaign, and editorial design
+- 🛠️ Building design-led, AI-powered web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎓 MA Visual Communication — Royal College of Art  
+🎓 BA Digital Media Production — University of the Arts London
