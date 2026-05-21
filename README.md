@@ -1,6 +1,6 @@
 ### Hi, I'm Tomas 🧑‍💻
 
-### Design-led Full-Stack Developer | Rails, AI & Product-Focused Web Apps
+### Design-led Full-Stack Developer — Rails, AI & Product-Focused Web Apps
 
 Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Development Bootcamp.
 
