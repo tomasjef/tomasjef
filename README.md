@@ -6,7 +6,7 @@ Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Devel
 
 ⚙️ Tech Stack: `Ruby`, `Ruby on Rails`, `JavaScript`, `HTML5`, `CSS3`, `SQL`, `PostgreSQL`, `Git`, `GitHub`<br>
 🤖 AI & integrations: `OpenAI APIs`, `LLM APIs`, `RAG`, `REST APIs`, `Cloudinary`, `Heroku`<br>
-🎨 Design Tools: `Product thinking`, `UI/UX`, `user flows`, `visual communication`, `Figma`, `Abobe Creative Suite`<br>
+🎨 Design: `Product thinking`, `UI/UX`, `user flows`, `visual communication`, `Figma`, `Abobe Creative Suite`<br>
 🏛️ Background: 15+ years in the arts and culture sector across branding, campaigns, exhibitions and editorial design<br>
 🛠️ Focus: Design-led, AI-powered web applications with clear user flows and practical real-world use cases<br>
 
