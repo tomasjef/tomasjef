@@ -11,8 +11,8 @@ Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Devel
 🏛️ Background: 15+ years in the arts and culture sector across branding, campaigns, exhibitions and editorial design<br>
 🛠️ Focus: Design-led, AI-powered web applications with clear user flows and practical real-world use cases<br>
 
-🎓 MA Visual Communication - Royal College of Art<br>
-🎓 BA Digital Media Production - University of the Arts London<br>
 🏆 AI Software Development Bootcamp - Le Wagon<br>
+🎓 MA Visual Communication - RCA<br>
+🎓 BA Digital Media Production - UAL<br>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasjef/)
