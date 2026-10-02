@@ -1,18 +1,17 @@
 ### Hi, I'm Tomas 🧑‍💻
+**Developer and designer**<br>
+Rails, AI and product-focused web apps<br>
+Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Development Bootcamp
 
-**A Full-Stack Developer in the making&nbsp;&nbsp;✧&nbsp;&nbsp;Designer by instinct&nbsp;&nbsp;✦**<br>
-Rails, AI & Product-Focused Web Apps
+⚙️ **Development:** `Ruby on Rails` `Ruby` `Hotwire` `JavaScript` `TypeScript` `PostgreSQL` `SQLite` `SQL` `HTML` `CSS/SCSS` `REST APIs`<br>
+🤖 **AI tooling:** `OpenAI API` `RAG` `vector embeddings` `prompt design`<br>
+🛠️ **Tools:** `Git` `GitHub` `GitHub Actions` `VS Code` `Claude Code` `Heroku` `Cloudflare`<br>
+🎨 **Design:** `visual identity` `typography` `editorial design` `UI design` `Figma` `Adobe Creative Cloud`<br>
+🔭 **Focus:** design-led, AI-powered web applications with clear user flows and real-world uses<br>
 
-Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Development Bootcamp.
+#### Recent projects
+- **[Margate Electronics](https://margate-electronics.org/)** (live): archival catalogue website for an electronic music label, with API-synced inventory, automated audio previews and a custom Avo CMS, deployed via CI/CD.<br>`Rails` `Hotwire` `TypeScript` `Solid Queue` `ffmpeg` `Avo` `Bandcamp API` `Cloudflare` `GitHub Actions` `Minitest`
+- **[Halo](https://github.com/tomasjef/ai-chatbot-RAG)** (MVP): AI support chatbot for a fictional digital bank, using RAG to ground answers in uploaded PDFs, with clickable source links.<br>`Rails` `PostgreSQL (pgvector)` `OpenAI API` `Hotwire`
+- **[Plant Match](https://github.com/tomasjef/plant-match)** (MVP): houseplant matching app using a questionnaire and a plant data API, with an AI care chatbot. Built as a team in a one-week bootcamp sprint.<br>`Rails` `PostgreSQL` `Devise` `Perenual API` `RubyLLM`
 
-⚙️ Tech Stack: `Ruby`, `Ruby on Rails`, `JavaScript`, `HTML5`, `CSS3`, `SQL`, `PostgreSQL`, `Git`, `GitHub`<br>
-🤖 AI & integrations: `LLM APIs`, `RAG`,  `Claude Code`, `REST APIs`, `Cloudinary`, `Heroku`<br>
-🎨 Design: `Product thinking`, `UI/UX`, `user flows`, `visual communication`, `Figma`, `Abobe Creative Suite`<br>
-🏛️ Background: 15+ years in the arts and culture sector across branding, campaigns, exhibitions and editorial design<br>
-🛠️ Focus: Design-led, AI-powered web applications with clear user flows and practical real-world use cases<br>
-
-🏆 AI Software Development Bootcamp - Le Wagon<br>
-🎓 MA Visual Communication - Royal College of Art<br>
-🎓 BA Digital Media Production - University of the Arts London<br>
-
-🔗 [LinkedIn](https://www.linkedin.com/in/tomasjef/)
+🌐 [LinkedIn](https://www.linkedin.com/in/tomasjef/)
