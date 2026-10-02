@@ -6,7 +6,7 @@ Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Devel
 🤖 **AI tooling:** `OpenAI API` `RAG` `vector embeddings` `prompt design`<br>
 🛠️ **Tools:** `Git` `GitHub` `GitHub Actions` `VS Code` `Claude Code` `Heroku` `Cloudflare`<br>
 🎨 **Design:** `visual identity` `typography` `editorial design` `UI design` `Figma` `Adobe Creative Cloud`<br>
-🔭 **Focus:** design-led, AI-powered web applications with clear user flows and real-world uses<br>
+🔭 **Focus:** `design-led`, `AI-powered web applications with clear user flows and real-world uses`
 
 ### Recent projects
 🎛️ [Margate Electronics](https://margate-electronics.org/) (live): archival catalogue site for an electronic music label, with API-synced inventory and a custom CMS.<br>
