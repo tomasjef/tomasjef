@@ -9,8 +9,11 @@ Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Devel
 🔭 **Focus:** design-led, AI-powered web applications with clear user flows and real-world uses<br>
 
 ### Recent projects
-🎛️ [Margate Electronics](https://margate-electronics.org/) (live): archival catalogue site for an electronic music label, with API-synced inventory, audio previews and a custom Avo CMS.<br>
+🎛️ [Margate Electronics](https://margate-electronics.org/) (live): archival catalogue site for an electronic music label, with API-synced inventory and a custom CMS.<br>
+`Rails` `TypeScript` `Avo` `Bandcamp API` `ffmpeg` `GitHub Actions`<br>
 🏦 [Halo](https://github.com/tomasjef/ai-chatbot-RAG) (MVP): AI support chatbot for a fictional bank, using RAG to answer from uploaded PDFs, with source links.<br>
+`Rails` `pgvector` `OpenAI API` `Hotwire`<br>
 🌿 [Plant Match](https://github.com/tomasjef/plant-match) (MVP): houseplant matching app with a plant data API and an AI care chatbot, built as a team in a one-week sprint.<br>
+`Rails` `Devise` `Perenual API` `RubyLLM`
 
 🌐 [LinkedIn](https://www.linkedin.com/in/tomasjef/)
