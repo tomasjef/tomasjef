@@ -1,5 +1,4 @@
 ### Hi, I'm Tomas 🧑‍💻 developer + designer
-Rails, AI and product-focused web apps<br>
 Recently graduated from [Le Wagon](https://www.lewagon.com/)'s AI Software Development Bootcamp
 
 ⚙️ **Development:** `Ruby on Rails` `Hotwire` `JavaScript` `TypeScript` `PostgreSQL` `SQL` `HTML` `CSS/SCSS` `REST APIs`<br>
